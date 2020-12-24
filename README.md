@@ -1,4 +1,4 @@
-# BlogApp
+# Todo List BY MEETYOURDEVELOPER
 A TodoList WebApp using EJS and Nodejs and MongoDb
 [Check it out here](https://quiet-river-67160.herokuapp.com/) 
 
